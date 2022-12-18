@@ -1,4 +1,3 @@
 #!/bin/bash
-chmod 7s4 hello
-
+chmod u+x,g+x,o+r hello
 

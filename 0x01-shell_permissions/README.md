@@ -1,1 +1,1 @@
-6. multiple permissions
+6-multiple_permissions 
